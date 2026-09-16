@@ -1,0 +1,1 @@
+export async function createIssue(title:string,body:string){return {title,body}}

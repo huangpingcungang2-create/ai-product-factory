@@ -1,0 +1,1 @@
+export default function Page(){return <main><h1>AI Product Factory</h1></main>}
